@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Rishikr30/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
