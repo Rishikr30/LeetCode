@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishikr30/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishikr30/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishikr30/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rishikr30/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rishikr30/LeetCode/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
