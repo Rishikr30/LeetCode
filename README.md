@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Rishikr30/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishikr30/LeetCode/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Rishikr30/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
