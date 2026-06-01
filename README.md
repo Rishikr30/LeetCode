@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishikr30/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Rishikr30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishikr30/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishikr30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rishikr30/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishikr30/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rishikr30/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishikr30/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rishikr30/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rishikr30/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
