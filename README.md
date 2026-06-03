@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishikr30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Rishikr30/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rishikr30/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rishikr30/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishikr30/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rishikr30/LeetCode/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Rishikr30/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
