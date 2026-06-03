@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rishikr30/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Rishikr30/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rishikr30/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Rishikr30/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishikr30/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishikr30/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Rishikr30/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
