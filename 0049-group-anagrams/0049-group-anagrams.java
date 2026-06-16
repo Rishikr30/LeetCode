@@ -1,46 +1,25 @@
 class Solution {
-   public String getHash(String s) {
-       StringBuilder hash = new StringBuilder();
-       int[] freq = new int[26];
+   public List<List<String>> groupAnagrams(String[] arr) {
+       List<List<String>> ans = new ArrayList<>();
+       int n = arr.length;
 
 
-       for (char ch : s.toCharArray()) {
-           freq[ch - 'a']++;
-       }
-
-
-       for (int i = 0; i < 26; i++) {
-           if (freq[i] != 0) {
-               hash.append(freq[i]);
+       HashMap<String, List<String>> map = new HashMap<>();
+       for (int i = 0; i < n; i++) {
+           String str = arr[i];
+           char[] chars = arr[i].toCharArray();
+           Arrays.sort(chars);
+           String sortedStr = new String(chars);
+           if (!map.containsKey(sortedStr))
+           {
+            map.put(sortedStr, new ArrayList<>());
            }
-           hash.append("$");
+           map.get(sortedStr).add(str);
        }
-
-
-       return hash.toString();
-   }
-
-
-   public List<List<String>> groupAnagrams(String[] strs) {
-       List<List<String>> res = new ArrayList<>();
-       HashMap<String, List<String>> mp = new HashMap<>();
-
-
-       for (int i = 0; i < strs.length; i++) {
-           String key = getHash(strs[i]);
-           if (!mp.containsKey(key)) {
-               mp.put(key, new ArrayList<>());
-           }
-           mp.get(key).add(strs[i]);
+       for (List<String> group : map.values()) {
+           ans.add(group);
        }
-
-
-       for (List<String> group : mp.values()) {
-           res.add(group);
-       }
-
-
-       return res;
+       return ans;
    }
 }
 
