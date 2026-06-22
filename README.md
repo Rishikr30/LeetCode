@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rishikr30/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishikr30/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Rishikr30/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishikr30/LeetCode/tree/master/0011-container-with-most-water) |
+| [1903-largest-odd-number-in-string](https://github.com/Rishikr30/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishikr30/LeetCode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Rishikr30/LeetCode/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rishikr30/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Rishikr30/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Rishikr30/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Indexed Tree
 |  |
