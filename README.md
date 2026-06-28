@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rishikr30/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rishikr30/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rishikr30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishikr30/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rishikr30/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rishikr30/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rishikr30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rishikr30/LeetCode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/Rishikr30/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Rishikr30/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Recursion
 |  |
 | ------- |
