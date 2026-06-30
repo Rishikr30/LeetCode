@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rishikr30/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishikr30/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Rishikr30/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Rishikr30/LeetCode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Rishikr30/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rishikr30/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rishikr30/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Rishikr30/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rishikr30/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rishikr30/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rishikr30/LeetCode/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
