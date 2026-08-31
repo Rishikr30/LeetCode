@@ -289,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Rishikr30/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Rishikr30/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Rishikr30/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishikr30/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
