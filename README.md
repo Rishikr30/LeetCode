@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Rishikr30/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Rishikr30/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Rishikr30/LeetCode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Rishikr30/LeetCode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Rishikr30/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Rishikr30/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Rishikr30/LeetCode/tree/master/0620-not-boring-movies) |
