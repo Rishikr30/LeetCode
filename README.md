@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rishikr30/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rishikr30/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rishikr30/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishikr30/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rishikr30/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Rishikr30/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rishikr30/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishikr30/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rishikr30/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishikr30/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
