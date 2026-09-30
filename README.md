@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rishikr30/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rishikr30/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
